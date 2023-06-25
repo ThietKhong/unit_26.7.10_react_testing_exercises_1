@@ -1,0 +1,26 @@
+.Card {
+  display: flex;
+  flex-direction: column;
+  width: "50%";
+  height: "50%";
+}
+
+.Card-title {
+  margin: 0 0 0.5em 0;
+}
+
+.Card-small {
+  margin-top: 0.5em;
+  font-style: italic;
+}
+
+.Card-image {
+  border-radius: 8px;
+  width: 500px;
+  height: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+  
+}
